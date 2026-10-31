@@ -1,4 +1,4 @@
-const BOT_TOKEN = '8925036617:AAEEiEeIONgM9XaOHYTJrFLmJce0DLn995s'; 
+const BOT_TOKEN = '9120757518:AAEYB2zmDR-cw3fGMl_JwRLvrQt43A4BGsc'; 
 const CHAT_ID = '-5487590996'; 
 const API_URL = `https://api.telegram.org/bot${BOT_TOKEN}/`;
 
